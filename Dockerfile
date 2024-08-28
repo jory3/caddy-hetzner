@@ -1,4 +1,4 @@
-# 2024-08-22
+# 2024-08-28
 FROM caddy:builder AS builder
 
 RUN xcaddy build \
